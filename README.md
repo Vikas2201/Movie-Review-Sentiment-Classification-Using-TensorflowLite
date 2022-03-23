@@ -28,3 +28,21 @@ This model was trained on movie reviews dataset so we may experience reduced acc
 
 https://user-images.githubusercontent.com/76476273/159720109-020030c9-1d4b-4fe5-aa2d-c2500bfc229a.mp4
 
+
+### Development apk
+----------------------------------------------------------------
+[base.zip](https://github.com/Vikas2201/Movie-Review-Sentiment-Classification-Using-TensorflowLite/files/8333781/base.zip)
+
+
+### Teams Members Name
+--------------------------------------------------------------------
+
+ * @Vikas2201
+ * @Aditya 
+ * @Abhijeet Singh 
+
+### Help Me Improve
+--------------------------------------------------------------------
+
+Hello Reader if you find any bug please consider raising issue I will address them asap.
+
