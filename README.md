@@ -14,3 +14,17 @@ This model was trained on movie reviews dataset so we may experience reduced acc
   * Feed the list to the TensorFlow Lite model.
   * Get the probability of the paragraph being positive or negative from the model outputs.
 
+### User Interface 👎
+----------------------------------------
+
+![photo](https://user-images.githubusercontent.com/76476273/159719966-e91d08c0-454d-41ec-bf71-a76619b92279.jpeg)
+
+
+
+### Project Demo Video 👎
+----------------------------------------------------
+
+
+
+https://user-images.githubusercontent.com/76476273/159720109-020030c9-1d4b-4fe5-aa2d-c2500bfc229a.mp4
+
