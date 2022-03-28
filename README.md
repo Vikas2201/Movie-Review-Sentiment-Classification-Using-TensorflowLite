@@ -44,5 +44,5 @@ https://user-images.githubusercontent.com/76476273/159720109-020030c9-1d4b-4fe5-
 ### Help Me Improve
 --------------------------------------------------------------------
 
-Hello Reader if you find any bug please consider raising issue I will address them asap.
+Hello Reader if you find any bug please consider raising issue I will address them asap
 
